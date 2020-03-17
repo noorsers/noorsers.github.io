@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+<p style="background-color:white" align="center">
+Tag </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Description
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+
+&lt!--...--&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">Defines a comment
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lt!DOCTYPE&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">Defines the document type
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lta&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a hyperlink
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltabbr&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">Defines an abbreviation or an acronym
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltacronym&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">Not supported in HTML5. Use &ltabbr&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> instead.
+Defines an acronym
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltaddress&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">Defines contact information for the author/owner of a document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltapplet&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">Not supported in HTML5. Use &ltembed&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> or &ltobject&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> instead.
+Defines an embedded applet
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltarea&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">Defines an area inside an image-map
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltarticle&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">Defines an article
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltaside&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">Defines content aside from the page content
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltaudio&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">Defines sound content
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltb&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines bold text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltbase&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Specifies the base URL/target for all relative URLs in a document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltbasefont&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Not supported in HTML5. Use CSS instead.
+Specifies a default color, size, and font for all text in a document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltbdi&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Isolates a part of text that might be formatted in a different direction from other text outside it
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltbdo&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Overrides the current text direction
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltbig&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Not supported in HTML5. Use CSS instead.
+Defines big text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltblockquote&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a section that is quoted from another source
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltbody&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines the document's body
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltbr&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a single line break
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltbutton&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a clickable button
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltcanvas&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Used to draw graphics, on the fly, via scripting (usually JavaScript)
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltcaption&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a table caption
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltcenter&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Not supported in HTML5. Use CSS instead.
+Defines centered text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltcite&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines the title of a work
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltcode&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a piece of computer code
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltcol&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Specifies column properties for each column within a &ltcolgroup&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> element 
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltcolgroup&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Specifies a group of one or more columns in a table for formatting
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">&ltdatalist&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Specifies a list of pre-defined options for input controls
+&ltdd&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a description/value of a term in a description list
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltdel&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines text that has been deleted from a document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltdetails&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines additional details that the user can view or hide
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltdfn&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Represents the defining instance of a term
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltdialog&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a dialog box or window
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltdir&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Not supported in HTML5. Use &ltul&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> instead.
+Defines a directory list
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltdiv&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a section in a document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltdl&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a description list
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltdt&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a term/name in a description list
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltem&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines emphasized text 
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltembed&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a container for an external (non-HTML) application
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltfieldset&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Groups related elements in a form
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltfigcaption&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a caption for a &ltfigure&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> element
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltfigure&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Specifies self-contained content
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltfont&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Not supported in HTML5. Use CSS instead.
+Defines font, color, and size for text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltfooter&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a footer for a document or section
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltform&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines an HTML form for user input
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltframe&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Not supported in HTML5.
+Defines a window (a frame) in a frameset
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltframeset&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Not supported in HTML5.
+Defines a set of frames
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lth1&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> to &lth6&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines HTML headings
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lthead&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines information about the document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltheader&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a header for a document or section
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lthr&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a thematic change in the content
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lthtml&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines the root of an HTML document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lti&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a part of text in an alternate voice or mood
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltiframe&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines an inline frame
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltimg&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines an image
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltinput&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines an input control
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltins&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a text that has been inserted into a document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltkbd&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines keyboard input
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltlabel&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a label for an &ltinput&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> element
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltlegend&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a caption for a &ltfieldset&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> element
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltli&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a list item
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltlink&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines the relationship between a document and an external resource (most used to link to style sheets)
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltmain&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Specifies the main content of a document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltmap&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a client-side image-map
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltmark&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines marked/highlighted text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltmenu&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a list/menu of commands
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltmenuitem&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a command/menu item that the user can invoke from a popup menu
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltmeta&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines metadata about an HTML document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltmeter&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a scalar measurement within a known range (a gauge)
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltnav&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines navigation links
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltnoframes&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Not supported in HTML5.
+Defines an alternate content for users that do not support frames
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltnoscript&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines an alternate content for users that do not support client-side scripts
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltobject&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines an embedded object
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltol&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines an ordered list
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltoptgroup&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a group of related options in a drop-down list
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltoption&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines an option in a drop-down list
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltoutput&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines the result of a calculation
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltp&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a paragraph
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltparam&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a parameter for an object
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltpicture&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a container for multiple image resources
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltpre&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines preformatted text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltprogress&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Represents the progress of a task
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltq&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a short quotation
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltrp&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines what to show in browsers that do not support ruby annotations
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltrt&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines an explanation/pronunciation of characters (for East Asian typography)
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltruby&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a ruby annotation (for East Asian typography)
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lts&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines text that is no longer correct
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltsamp&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines sample output from a computer program
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltscript&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a client-side script
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltsection&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a section in a document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltselect&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a drop-down list
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltsmall&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines smaller text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltsource&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines multiple media resources for media elements (&ltvideo&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> and &ltaudio&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">)
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltspan&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a section in a document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltstrike&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Not supported in HTML5. Use &ltdel&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> or &lts&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> instead.
+Defines strikethrough text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltstrong&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines important text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltstyle&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines style information for a document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltsub&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines subscripted text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltsummary&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a visible heading for a &ltdetails&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> element
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltsup&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines superscripted text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltsvg&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a container for SVG graphics
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lttable&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a table
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lttbody&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Groups the body content in a table
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lttd&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a cell in a table
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lttemplate&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a template
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lttextarea&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a multiline input control (text area)
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lttfoot&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Groups the footer content in a table
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltth&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a header cell in a table
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltthead&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Groups the header content in a table
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lttime&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a date/time
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lttitle&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a title for the document
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lttr&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a row in a table
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lttrack&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines text tracks for media elements (&ltvideo&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white"> and &ltaudio&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">)
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&lttt&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Not supported in HTML5. Use CSS instead.
+Defines teletype text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltu&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines text that should be stylistically different from normal text
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltul&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines an unordered list
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltvar&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a variable
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltvideo&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a video or movie
+</p><hr noshade width=73% align="center"><p style="background-color:white" align="center">
+&ltwbr&gt </p></p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<p style="background-color:" align="center"><p style="background-color:white">	Defines a possible line-break</p>

@@ -1,0 +1,12 @@
+blue
+#000f6e
+#00ffff
+#278696
+pink
+#ff7db8
+#938f9c
+#ff99d1
+black
+#00cccc
+#5b391e
+#11eddf
